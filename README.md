@@ -1,16 +1,9 @@
-# flutter_eye_tracking
+# Flutter EyeTrack Practice
 
-A new Flutter project.
+## Overview
+Flutter EyeTrack Practice is a mobile application developed using Flutter that leverages eye tracking technology to monitor and respond to the user's eye movements. This project serves as a hands-on practice to understand and implement eye tracking functionalities within a Flutter environment.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+- **Real-Time Eye Tracking:** Detect and follow eye movements using the smartphone's camera.
+- **Interactive UI:** Dynamic interface that responds to where the user is looking.
+- **Practice-Oriented:** Designed to help developers learn and experiment with eye tracking in Flutter.
